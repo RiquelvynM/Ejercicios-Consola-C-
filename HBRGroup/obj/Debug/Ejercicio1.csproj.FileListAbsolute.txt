@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\HBRGroup\HBRGroup\bin\Debug\HBRGroup.exe.config
+C:\Users\DELL\source\repos\HBRGroup\HBRGroup\bin\Debug\HBRGroup.exe
+C:\Users\DELL\source\repos\HBRGroup\HBRGroup\bin\Debug\HBRGroup.pdb
+C:\Users\DELL\source\repos\HBRGroup\HBRGroup\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\HBRGroup\HBRGroup\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HBRGroup\HBRGroup\obj\Debug\HBRGroup.exe
+C:\Users\DELL\source\repos\HBRGroup\HBRGroup\obj\Debug\HBRGroup.pdb

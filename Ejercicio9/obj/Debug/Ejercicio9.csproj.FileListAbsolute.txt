@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio9\obj\Debug\Ejercicio9.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio9\obj\Debug\Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio9\obj\Debug\Ejercicio9.pdb

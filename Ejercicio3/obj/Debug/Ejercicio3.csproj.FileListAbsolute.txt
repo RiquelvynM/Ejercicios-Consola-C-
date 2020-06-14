@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\DELL\source\repos\HBRGroup\Ejercicio3\obj\Debug\Ejercicio3.pdb
